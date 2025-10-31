@@ -136,7 +136,6 @@ def render_front_page():
             <li><b>H2.</b> Most earthquakes are minor (magnitude &lt; 4.0) <span class="fp-badge">Supported</span></li>
             <li><b>H3.</b> Earthquakes are uniformly distributed across time <span class="fp-badge fp-badge--warn">Partially</span></li>
           </ul>
-          <p class="fp-p" style="color:rgba(255,255,255,.65)">Temporal clusters are consistent with aftershock sequences.</p>
         </div>
       </div>
       <div class="fp-footer">
